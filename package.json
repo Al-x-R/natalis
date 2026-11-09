@@ -1,0 +1,8 @@
+{
+  "name": "natalis",
+  "private": true,
+  "scripts": {
+    "install:all": "npm --prefix app install",
+    "app": "npm --prefix app start"
+  }
+}

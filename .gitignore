@@ -1,0 +1,7 @@
+node_modules/
+.idea/
+.DS_Store
+
+# local, per-developer files
+.claude/settings.local.json
+*.log
